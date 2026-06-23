@@ -10,7 +10,7 @@
 
 4.这是软件的图标也是唯一标识，如遇仿冒，请勿下载
 
-5.本人所有项目开源，不存在私下售卖，如遇有售卖软件的，请不要上当受骗
+5.本人所有项目的成品开源，源码闭源，不存在私下售卖，如遇有售卖软件的，请不要上当受骗
 
 <img width="1280" height="1280" alt="red_start-baxia" src="https://github.com/user-attachments/assets/487c55f0-fe6d-4cb0-8294-16fe1e5f98bf" />
 
