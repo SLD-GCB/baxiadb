@@ -1,5 +1,7 @@
 # 霸下数据库 (baxiadb)
 
+_**本项目成品开源，源码开源，如遇售卖该软件者，请勿上当受骗。**_
+
 <p align="center">
   <img src="docs/screen-1.png" width="620" alt="霸下数据库 · SQL 查询">
 </p>
